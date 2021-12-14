@@ -1,0 +1,30 @@
+/* JENNA FAMBROUGH 12/13/2021 */
+
+
+
+body {
+    background-color:rgb(255, 175, 188);
+}
+header{
+    background-color: rgb(250, 159, 149);
+    position:sticky;top:0;
+    padding: 22px;
+    text-align: center;
+}
+
+a { color:white;
+text-decoration:underline ;
+font-weight: lighter; }
+a:hover {color: thistle;}
+
+.row{
+    width: 50%;
+  }
+.container {
+    display: flex;
+}
+
+h1{
+    color: white;
+    font-family: cursive;
+}
